@@ -15,6 +15,7 @@
  + Ссылка для скачивания [Visual Studio Code](https://code.visualstudio.com/)  
  + Ссылка для скачивания [Git](https://git-scm.com/) 
  + Ссылка на документацию [Git Book](https://git-scm.com/book/ru/v2)
+ + Ссылка на гайд [Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
 
 **Репозиторий** - папка с настройкой контроля версий
 
@@ -54,6 +55,7 @@
 **git status** - показать текущий статус проекта
 
 **git add** - добавление файлов в ветку
++ **git add .** - добавить все изменения в ветку 
 
 **git commit** -m "message" - сделать коммит с сообщением "message" 
 
