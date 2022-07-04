@@ -21,7 +21,7 @@
  + Ссылка на документацию [Git Book](https://git-scm.com/book/ru/v2)
  + Ссылка на гайд [Markdown](https://paulradzkov.com/2014/markdown_cheatsheet/)
  + Еще одна ссылка на [Markdown](http://ilfire.ru/kompyutery/shpargalka-po-sintaksisu-markdown-markdaun-so-vsemi-samymi-populyarnymi-tegami/?upm_export=print#link5)
- + Ссфлка на интерактивный тренажер по Git [Тренажер Git](https://learngitbranching.js.org/?locale=ru_RU)
+ + Ссылка на интерактивный тренажер по Git [Тренажер Git](https://learngitbranching.js.org/?locale=ru_RU)
 
 
 # Начало работы
