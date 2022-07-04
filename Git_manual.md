@@ -164,6 +164,7 @@ _Пример ветвления из лекции:_
 6. В окне на Github появляется возможность pull request
 
 
+https://github.com/TimurIslamgulov/DZ3
 
 
 
